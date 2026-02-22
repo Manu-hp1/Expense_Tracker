@@ -90,19 +90,20 @@ gcc *.c -o expense_tracker
 ## 🧪 Sample Usage
 
 ```
-===== Expense Tracker =====
-1. Add Expense
-2. View Expenses
-3. Category Summary
-4. Exit
-
+============================== 📋 Expense Tracker ==============================
+1] 💸 Add Expense
+2] 👀 View Expenses
+3] 📊 Category Summary
+4] 💰 Total Expenses
+5] ✏️  Edit Expense
+6] 🗑️  Delete Expense
+7] 🔍  Search Expense
+8] 🚪 Exit
 Enter choice: 1
-Enter Date: 21-02-2026
-Enter Category: Food
-Enter Amount: 250
-Enter Notes: Lunch
-
-Expense added successfully!
+Enter amount: 1000
+Enter category: Food      
+Enter note: Breakfast
+|Expense added successfuuly.
 ```
 
 ---
