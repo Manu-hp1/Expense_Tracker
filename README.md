@@ -39,7 +39,7 @@ This project focuses on applying core C programming concepts to solve a real-wor
 
 ## 🛠️ Technologies & Concepts Used
 
-- **C Programming**
+- **C++ Programming**
 - **Structures**
 - **File Handling (fopen, fprintf, fscanf, fclose)**
 - **Pointers and Arrays**
